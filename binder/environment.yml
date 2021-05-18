@@ -24,5 +24,6 @@ dependencies:
   - mysqlclient==1.4.6
   - pip:
     - ome-zarr
+    - omero-metadata
     - numpy
     - git+https://github.com/CellProfiler/CellProfiler.git@v4.1.3
